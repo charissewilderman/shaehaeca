@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lowohzoba.huberyyang.com/sitemap.xml
